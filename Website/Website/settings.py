@@ -25,7 +25,7 @@ SECRET_KEY = 'dynh^fgdh&zhkyei^5q=(yc11syf0@46+=(9a%49q)r9vjql*n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['graphdocker-env.eba-gn6qvusd.eu-west-2.elasticbeanstalk.com']
 
 
 # Application definition
